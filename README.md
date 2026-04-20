@@ -29,6 +29,7 @@ The simulation models neutron thermalization with the following parameters:
 * `docs/`: Original reference papers by Coveyou et al., Wigner-Wilkins, and presentation slides.
 
 ## 5. Code Structure
+```text
 main()
 ├──init_simulation()        
 ├──run_simulation()        
@@ -38,7 +39,8 @@ main()
 │    ├──sample_target_velocity()
 │    ├──elastic_collision()
 │    └──tally speed into bins
-└──calculate_flux()        
+└──calculate_flux()
+```      
 
 ## 6. Usage
 ### Compilation
