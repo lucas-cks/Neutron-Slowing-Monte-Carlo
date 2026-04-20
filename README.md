@@ -50,6 +50,10 @@ $$T_m/T_e = 1 + 1.11 \times A \times K$$
 | 2 | Carbon | 12 | 0.10 | $\approx 1.406$ |
 | 3 | High Absorption | 1 | 0.36 | $\approx 1.219$ |
 
+### Analysis Visualization
+![Flux Analysis Results](./results/comprehensive_flux_analysis.jpg)
+![Flux Analysis Results](individual_flux_comparisons.jpg)
+
 
 ## 7. References
 1. Coveyou, R. R., Bate, R. R., & Osborn, R. K. (1956). "Effect of Moderator Temperature upon Neutron Flux in Infinite, Capturing Medium". *Journal of Nuclear Energy*. [cite: 1]
