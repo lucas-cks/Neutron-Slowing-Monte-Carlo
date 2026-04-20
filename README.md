@@ -5,8 +5,8 @@
 ![C](https://img.shields.io/badge/Language-C-blue?logo=c)
 ![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)
 
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-ffffff?logo=matplotlib&logoColor=black)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -64,6 +64,17 @@ gcc -o monte_carlo_neutron_slowing monte_carlo_neutron_slowing.c -lm -O3
 python plot.py
 ```
 
+Requirements
+
+- **C compiler**
+- **Python 3.8+** with:
+  - `numpy`, `pandas`, `matplotlib`
+
+Install Python dependencies:
+```bash
+pip install numpy pandas matplotlib
+```
+
 ## 7. Key Results & Validation
 The simulation reproduces the theoretical relationship between moderator temperature ($T_m$) and effective neutron temperature ($T_e$):
 $$T_m/T_e = 1 + 1.11 \times A \times K$$
@@ -74,7 +85,15 @@ $$T_m/T_e = 1 + 1.11 \times A \times K$$
 | 2 | Carbon | 12 | 0.10 | $\approx 1.406$ |
 | 3 | High Absorption | 1 | 0.36 | $\approx 1.219$ |
 
+## 8. License
 
-## 8. References
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+## 9. References
 1. Coveyou, R. R., Bate, R. R., & Osborn, R. K. (1956). "Effect of Moderator Temperature upon Neutron Flux in Infinite, Capturing Medium". *Journal of Nuclear Energy*. 
 2. Wigner, E. P., & Wilkins, J. E. (1944). "Effect of the Temperature of the Moderator on the Velocity Distribution of Neutrons". *AECD-2275*.
+
+## 10. Contact
+
+For questions or suggestions, please open an issue on this repository or contact the author directly.
+```
