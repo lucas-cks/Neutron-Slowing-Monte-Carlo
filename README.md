@@ -1,4 +1,5 @@
 # Monte Carlo Simulation of Neutron Slowing Down
+Based on Wigner-Wilkins (1944) and Coveyou et al. (1956)
 
 **Author:** Ching Kai Sing, Lucas 
 
