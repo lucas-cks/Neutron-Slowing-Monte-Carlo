@@ -3,7 +3,7 @@
 **Author:** Ching Kai Sing, Lucas 
 
 ## 1. Overview
-This project implements a high-fidelity Monte Carlo simulation of neutron moderation in an infinite, capturing medium. It is based on the classic 1956 research by **Coveyou, Bate, and Osborn** at the Oak Ridge National Laboratory[cite: 1]. The simulation explores the effects of moderator temperature on neutron flux spectra, validating results against **Wigner-Wilkins (1944)** theory[cite: 2].
+This project implements a high-fidelity Monte Carlo simulation of neutron moderation in an infinite, capturing medium. It is based on the classic 1956 research by **Coveyou, Bate, and Osborn** at the Oak Ridge National Laboratory[cite: 1]. The simulation explores the effects of moderator temperature on neutron flux spectra, validating results against **Wigner-Wilkins (1944)** theory[cite: 2]. For a high-level overview of the physics and methodology, please see our Presentation PDF.
 
 ## 2. Physics Background
 The simulation models neutron thermalization with the following parameters:
@@ -26,7 +26,7 @@ The simulation models neutron thermalization with the following parameters:
 * `plot.py`: Python script for visualization and statistical analysis.
 * `data/`: CSV files containing simulation results for Hydrogen, Carbon, and High Absorption cases.
 * `result/`: Generated plots showing flux comparisons and hardening factors.
-* `docs/`: Original reference papers by Coveyou et al. and Wigner-Wilkins.
+* `docs/`: Original reference papers by Coveyou et al., Wigner-Wilkins, and presentation slides.
 
 ## 5. Usage
 ### Compilation
