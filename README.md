@@ -27,7 +27,8 @@ The simulation models neutron thermalization with the following parameters:
     * **Spectral Hardening:** The thermal peak shifts to higher energies as absorption ($K$) increases.
     * **1/v Tail:** High-speed flux follows the theoretical $1/v$ behavior.
     * **Temperature Shift:** Deviation from the ideal Maxwell-Boltzmann distribution.
- [Back to Top](#readme-top)
+
+[Back to Top](#readme-top)
 
 ## 3. Implementation Details
 * **Language:** C (for simulation) and Python (for data analysis).
@@ -61,7 +62,7 @@ main()
 
 ## 6. Usage
 ### Installation
-```text
+```bash
 git clone [https://github.com/your_username/neutron-slowing-mc.git](https://github.com/your_username/neutron-slowing-mc.git)
 ```
 
