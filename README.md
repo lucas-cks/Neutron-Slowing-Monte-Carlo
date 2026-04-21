@@ -1,7 +1,9 @@
 # Monte Carlo Simulation of Neutron Slowing Down
-**Based on Wigner-Wilkins (1944) and Coveyou et al. (1956)**
+## Effect of Moderator Temperature upon Neutron Flux in Infinite, Capturing Medium
 
-**Author:** Ching Kai Sing, Lucas 
+**Author:** Ching Kai Sing, Lucas
+**Based on Coveyou et al. (1956) "Effect of Moderator Temperature upon Neutron Flux in Infinite, Capturing Medium
+" in Oak Ridge Laboratory**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
