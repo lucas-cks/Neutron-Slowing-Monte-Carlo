@@ -2,6 +2,7 @@
 ## Effect of Moderator Temperature upon Neutron Flux in Infinite, Capturing Medium
 
 **Author:** Ching Kai Sing, Lucas
+
 **Based on Coveyou et al. (1956) "Effect of Moderator Temperature upon Neutron Flux in Infinite, Capturing Medium
 " in Oak Ridge Laboratory**
 
